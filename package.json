@@ -15,5 +15,8 @@
     "eslint": "^7.13.0",
     "lerna": "^3.22.1",
     "prettier": "^2.2.0"
+  },
+  "dependencies": {
+    "eslint-plugin-node": "^11.1.0"
   }
 }
